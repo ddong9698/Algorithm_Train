@@ -1,1 +1,2 @@
-print('hi')
+# print('hi')
+print(5 > 10)
