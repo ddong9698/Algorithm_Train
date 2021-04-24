@@ -8,4 +8,5 @@ print("Apple은 %c로 시작해요." %"A")
 
 print("나는 %s색과 %s색을 좋아해요." % ("검정", "빨강"))
 
-print("나는 {} 살입니다.".format(26))
+print("나는 {} 살입니다.".format(26)) 
+print("나는 {} 살입니다.".format(30)) 
