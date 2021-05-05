@@ -5,7 +5,6 @@
 ##a = 97
 #z = 122
 
-ord('a')
-chr(97)
+a = input()
 
-print(a)
+print(ord(a))
