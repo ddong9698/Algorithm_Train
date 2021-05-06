@@ -6,4 +6,6 @@ if (A < B):
     print('<')
 if A==B:
     print('==')
-    
+
+print(A, B)
+
