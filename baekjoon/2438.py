@@ -1,3 +1,5 @@
 star = int(input())
 for i in range(1,(star+1)):
-    print("*" * i)
+    print("8" * i)
+    
+    
