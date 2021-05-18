@@ -1,3 +1,5 @@
-sum(1, 2)
-add 1 + 2
-print(1)
+n = int(input())
+
+for i in range(1, 10):
+    print(n,"*",i,"=", n*i)
+    

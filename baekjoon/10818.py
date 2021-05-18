@@ -1,11 +1,4 @@
-max (1, 2, 3, 4)
-min
+from random import *
 
-print(1+2)
+print(5, randit(1, 1000000)))
 
-A = 10
-B = 
-
-int = 2, 3, 4,
-random
-A = input(int().split)
