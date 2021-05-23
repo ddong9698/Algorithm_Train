@@ -1,4 +1,3 @@
-from random import *
-
-print(5, randit(1, 1000000))
-
+A = int(input())
+B = list(map(int,input().split()))
+print('{}{}'.format(min(b),max(b)))
