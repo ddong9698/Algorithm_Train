@@ -1,3 +1,6 @@
-A, B = map(int, input().split())
+n = int(input())
 
-print(A*B)
+for _ in range(n):
+    A, B = list(map(int, input().split()))
+
+    print(A+B)
