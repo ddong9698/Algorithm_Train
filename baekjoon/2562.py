@@ -7,3 +7,5 @@
 40
 85
 61
+
+print(random)
