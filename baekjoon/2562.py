@@ -9,3 +9,4 @@
 61
 
 print(random)
+print( 3, 29, 38)
