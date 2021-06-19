@@ -1,3 +1,4 @@
 print(A + B)
 random for i s
-print
+if A = B :
+    print (A + B)
