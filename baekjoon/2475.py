@@ -1,4 +1,4 @@
-0 4 2 5 6
 import sys
-print 10
-input = sys.stdin.redline
+input = sys.stdin.readline
+s = [i ** 2 for i in map(int, input().split())]
+print(sum(s) % 10)
