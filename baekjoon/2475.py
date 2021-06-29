@@ -2,6 +2,7 @@ import sys
 input = sys.stdin.readline
 s = [i ** 2 for i in map(int, input().split())]
 print(sum(s) % 10)
-print(min(s))
-print(if:
+A = 1 + 2
+B = 3 +6
+
      )
