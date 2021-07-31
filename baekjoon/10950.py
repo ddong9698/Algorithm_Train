@@ -6,3 +6,5 @@ for _ in range(n):
     print(A+B)
     print(A-B)
     print(A8B)
+    print(A/B)
+    
